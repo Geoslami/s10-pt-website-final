@@ -12,5 +12,9 @@ The webpages are:
 + activities.html
 + reservations.html
              
-## Practice working in detached HEAD mode:
+### Practice working in detached HEAD mode:
 Secret phrase: *"I traveled back in time to find this"*
+
+#### I just
+##### need three
+###### more headings
