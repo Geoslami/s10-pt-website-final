@@ -2,3 +2,4 @@
 #See github/gitignore and the gitignore.io site for more information
 
 mypassword.txt
+node_modules
